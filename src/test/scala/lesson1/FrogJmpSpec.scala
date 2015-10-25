@@ -46,6 +46,8 @@ class FrogJmpSpec extends FunSuite {
 
   }
 
+  test("sample 4"){
+
     val res = FrogJmp.solution(10,29,20)
 
     assert(res == 1)
