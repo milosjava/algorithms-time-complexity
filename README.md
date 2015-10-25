@@ -1,2 +1,2 @@
 # codilityScala
-Implementation in Scala programming language of various tasks from codility code testing platform.
+Implementation of various tasks from codility code testing platform in Scala programming language.
