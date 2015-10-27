@@ -1,5 +1,6 @@
 package lesson1
 
+//100%
 //test text: https://codility.com/programmers/task/frog_jmp
 //performance: https://codility.com/demo/results/trainingTQS547-ZQW/
 

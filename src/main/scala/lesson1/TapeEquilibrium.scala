@@ -1,6 +1,6 @@
 package lesson1
 
-
+//100%
 //test text:  https://codility.com/programmers/task/tape_equilibrium
 //performance: https://codility.com/demo/results/trainingZNZCZN-AGC/
 

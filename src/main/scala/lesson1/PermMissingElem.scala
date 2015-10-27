@@ -1,7 +1,10 @@
 package lesson1
 
 
-//TODO fix some issues https://codility.com/demo/results/trainingXYR8XS-7R9/
+//TODO fix some issues , score 50%
+//text: https://codility.com/programmers/task/perm_missing_elem
+//performance : https://codility.com/demo/results/trainingXYR8XS-7R9/
+
 object PermMissingElem {
 
   def solution(A: Array[Int]): Int = {

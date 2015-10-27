@@ -2,9 +2,10 @@ package lesson2
 
 import java.util
 
-
+//100 %
 //test text:  https://codility.com/programmers/task/max_counters
 //performance:  https://codility.com/demo/results/trainingKJT6Y3-74G/
+
 object MaxCounters {
 
   def solution(N: Int, A: Array[Int]): Array[Int] = {
