@@ -1,6 +1,6 @@
 package step3
 
-import scala.io.Source._
+import scala.io.Source
 
 /**
  * Created by sensei on 10/28/15.
@@ -12,8 +12,9 @@ object Task1 {
 
 
     //get lines
-
-    val lines  = fromFile("/home/sensei/wl.txt").getLines()
+    //read the file
+    val source = Source.fromURL(getClass.getResource("/word_list.txt"))
+    val lines = source.getLines
 
     val words =  Array() ++ lines
 
