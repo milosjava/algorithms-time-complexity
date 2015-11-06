@@ -18,8 +18,7 @@ object Task4 {
     }
 
     //for 4 or more create a output string with commas
-
-
+    //todo add test for this command
     var numberOfCommas = (numberString.length  - 1 )/3
 
     var reverseString  = numberString.reverse
