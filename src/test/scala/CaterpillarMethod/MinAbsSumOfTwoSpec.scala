@@ -1,4 +1,4 @@
-package lesson13
+package CaterpillarMethod
 
 import org.scalatest.FunSuite
 

@@ -1,4 +1,4 @@
-package lesson1
+package TimeComplexity
 
 import org.scalatest.{FunSuite, FunSpec}
 

@@ -1,4 +1,4 @@
-package lesson1
+package TimeComplexity
 
 
 //TODO fix some issues , score 50%

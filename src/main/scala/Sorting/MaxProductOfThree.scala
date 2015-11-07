@@ -1,4 +1,4 @@
-package lesson4
+package Sorting
 
 //todo issues 44%
 //test task:  https://codility.com/programmers/task/max_product_of_three

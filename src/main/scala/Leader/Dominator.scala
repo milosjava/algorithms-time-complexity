@@ -1,4 +1,4 @@
-package lesson6
+package Leader
 
 //todo improve 91%
 //task text:  https://codility.com/programmers/task/dominator

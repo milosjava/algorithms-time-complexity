@@ -1,4 +1,4 @@
-package lesson3
+package PrefixSums
 
 import org.scalatest.FunSuite
 

@@ -1,4 +1,4 @@
-package lesson3
+package PrefixSums
 
 
 //TODO issues, check performance - score 90%

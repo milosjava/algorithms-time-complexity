@@ -1,4 +1,4 @@
-package lesson6
+package Leader
 
 import org.scalatest.FunSuite
 

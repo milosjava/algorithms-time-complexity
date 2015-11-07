@@ -1,4 +1,4 @@
-package lesson4
+package Sorting
 
 import org.scalatest.FunSuite
 

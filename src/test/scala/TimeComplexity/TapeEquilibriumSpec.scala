@@ -1,9 +1,9 @@
-package lesson1
+package TimeComplexity
 
 import org.scalatest.FunSuite
 import org.scalatest.BeforeAndAfter
 
-import lesson1.TapeEquilibrium
+import TimeComplexity.TapeEquilibrium
 
 class TapeEquilibriumSpec extends FunSuite  {
 

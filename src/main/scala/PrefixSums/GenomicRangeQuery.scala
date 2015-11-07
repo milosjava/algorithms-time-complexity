@@ -1,4 +1,4 @@
-package lesson3
+package PrefixSums
 
 //test text: https://codility.com/programmers/task/genomic_range_query
 //performance : https://codility.com/demo/results/trainingEUR4XP-425/

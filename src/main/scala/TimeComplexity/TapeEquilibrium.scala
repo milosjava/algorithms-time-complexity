@@ -1,4 +1,4 @@
-package lesson1
+package TimeComplexity
 
 //100%
 //test text:  https://codility.com/programmers/task/tape_equilibrium
